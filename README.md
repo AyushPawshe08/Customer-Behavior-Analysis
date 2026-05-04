@@ -247,8 +247,8 @@ The dashboard connects to PostgreSQL and provides interactive exploration across
 
 **Ayush Pawshe**
 
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?logo=github)](https://github.com/AyushPawshe08a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ayush-pawshe/)
 
 ---
 
